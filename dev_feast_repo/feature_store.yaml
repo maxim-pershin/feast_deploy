@@ -17,3 +17,4 @@ online_store:
     db_schema: public
     user: postgres
     password: hy77hv2SubR
+entity_key_serialization_version: 2
